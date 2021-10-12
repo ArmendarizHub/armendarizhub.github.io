@@ -1,6 +1,6 @@
 var job = ["U.S Army Soldier", "Programmer", "Business person", "Rockstar"];
 var city = ["Dallas", "Austin", "Miami", "New York", "Los Angeles"];
-var spouse = ["Elizabeth", "Liz", "Eliza"]
+var spouse = ["Elizabeth", "Liz", "Eliza"];
 var numKids = [0, 1, 2, 3, 4];
 
 var xx = Math.floor(Math.random() * 4)
